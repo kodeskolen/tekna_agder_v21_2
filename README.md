@@ -20,7 +20,9 @@ I løpet av kurset vil vi ha flere oppgaveøkter. Her vil du ha muligheten til �
 
 [SSB](https://www.ssb.no)
 
-[SSBs rundt 250 ferdig kompilerte datasett](http://data.ssb.no/api/v0/dataset/) 
+[SSBs rundt 250 ferdig kompilerte datasett](http://data.ssb.no/api/v0/dataset/)
+
+[Offentlige norske datasett](https://data.norge.no/datasets)
 
 ## Ekstra Ressurser:
 Vi har laget en [ressursguide](ressursguide.md) som du kan se på for å finne gode læringsressurser sortert etter tema. Ressursguiden kan gi deg et startpunkt for å lære alt fra dataanalyse til webutvikling! Ressursguiden finner du [her](ressursguide.md). I tillegg vil vi trekke frem disse fire bøkene, de er alle gratis i digital utgave.
