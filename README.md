@@ -3,6 +3,8 @@
 ## Hva er dette repositoriet?
 Dette repositoriet er ment for deling av kursmateriale for Introduksjonskurs i data-analyse i Python, som arrangeres av [Tekna](https://www.tekna.no) og [Kodeskolen](https://simulakodeskolen.no/). Materialer vil legges ut etterhvert som kurset går, kom derfor gjerne tilbake ved en senere anledning for å finne nyere materialer!
 
+Jeg har lagt ved notater til stoffet vi går gjennom i plenum, som kan brukes som referanse under kurset eller etterpå.
+
 ## Kursets innhold:
 Kurset vil passe for deg som har vært på vårt tidligere krasjkurs og har programmeringserfaring fra før. På dag 1 skal vi gjennom temaene: Jupyter Notebooks, oppslagsverk, funksjoner og regneark i pandas. 
 
